@@ -52,6 +52,9 @@
     },
     "machineLearningServerEndpointCertificationAuthorityCertificatePath": {
       "value": ""
+    },
+    "allowInvalidClientCertificates": {
+        "value": false
     }
   }
 }
